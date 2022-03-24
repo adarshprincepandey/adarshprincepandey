@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarshprincepandey
 - 👀 I’m interested in Technology as well as other in writing also
-- 🌱 I’m currently learning C C++ Java & Python as well
+- 🌱 I’m currently learning languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://wa.link/4suqqt
 
